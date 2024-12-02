@@ -1,5 +1,5 @@
 ## #HIBUDDY
-only lurking until i can successfully learn to code and make stuff on my own
+only lurking until i can successfully learn to code and make stuff on my own\
 2003-03-24
 
 <!--
