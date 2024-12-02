@@ -1,4 +1,5 @@
-## Hi there 👋
+## #HIBUDDY
+only lurking until i can successfully learn to code and make stuff on my own
 
 <!--
 **distantgallery/distantgallery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
